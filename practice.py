@@ -5,3 +5,8 @@ c = a+b
 print(c)
 
 print(b)
+
+print(a)
+
+print("hello")
+print("hello pavan")
